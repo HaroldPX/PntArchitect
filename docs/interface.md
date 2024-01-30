@@ -105,8 +105,8 @@
 
 ![SimulationTools](Images/3D_tool.png)
 
-- ![](Images/translation.png) 	The translation tool permit you to move along X,Y or Z axis your object.
-- ![](Images/Rotation.png) 	The rotation tool permit you to rotate along X,Y or Z axis your object.
+- ![](Images/translation.png) 	The translation tool permit you to move along X, Y or Z axis your object.
+- ![](Images/Rotation.png) 	The rotation tool permit you to rotate along X, Y or Z axis your object.
 - ![](Images/Resized.png) 	The resize tool permit you to up scale, or down scale your object.
 - ![](Images/Universal.png) 	The universal tool permit you to move, rotate and resize in one tool an object.
 - ![](Images/Transform.png) 	The Transform local/global tool enable you to change between the global reference or the object reference.
