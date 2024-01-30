@@ -106,10 +106,10 @@
 ![SimulationTools](Images/3D_tool.png)
 
 - ![](Images/translation.png) 	The translation tool permit you to move along X,Y or Z axis your object.
-- ![](Images/rotation.png) 	The rotation tool permit you to rotate along X,Y or Z axis your object.
-- ![](Images/resized.png) 	The resize tool permit you to up scale, or down scale your object.
-- ![](Images/universal.png) 	The universal tool permit you to move, rotate and resize in one tool an object.
-- ![](Images/transform.png) 	The Transform local/global tool enable you to change between the global reference or the object reference.
+- ![](Images/Rotation.png) 	The rotation tool permit you to rotate along X,Y or Z axis your object.
+- ![](Images/Resized.png) 	The resize tool permit you to up scale, or down scale your object.
+- ![](Images/Universal.png) 	The universal tool permit you to move, rotate and resize in one tool an object.
+- ![](Images/Transform.png) 	The Transform local/global tool enable you to change between the global reference or the object reference.
 - ![](Images/Attach.png) 	The link tool enable you to link two conveyor together to be move and modify together.
 - ![](Images/Symmetry.png) 	The symetry tool enable you to move an object or a group, in symmetry along an axis.
 - ![](Images/Duplicate.png) 	The transformation tool permit you to transform object by duplicate an object or a group.
