@@ -51,7 +51,7 @@ You can also rotate your camera by using the right click on your mouse.
 This video show you how to use right click to rotate your camera in the 3D viewer.
 
 <video width="800" controls>
-  <source src="Medias/ClickDroit.mp4" type="video/mp4">
+  <source src="Medias/ClicDroit.mp4" type="video/mp4">
 </video>
 
 >Zoom

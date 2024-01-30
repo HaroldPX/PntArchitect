@@ -31,7 +31,7 @@
 
    The toolbar is divided into two sections: the upper section is dedicated to project editing, while the lower section consists of useful tools for simulation purposes. Tools which are available section are explain in the 3D viewer section.
 
->File
+> File
 
 ![New](Images/New.png)
 
@@ -44,7 +44,7 @@
 - Preferences 	Customization for various aspects such as the color scheme of the software interface, language preferences, the time interval for autosaves, and additional settings. More details are given here.
 - Exit 	Exit Architect.
 
->Edit
+> Edit
 
 ![Edit](Images/Edit.png)
 - Undo 	Undo your previous action.
@@ -53,7 +53,7 @@
 - Export 	Enables you to export elements from the hierarchy; So you will be able to export an complete complex groups to re-use it.
 - Project Settings 	Customize various aspects of your project. Within this window, you can specify the project name, customer name, provide a description, and configure other relevant details.
 
->View
+> View
 
 ![View](Images/View.png)
 
@@ -62,7 +62,7 @@
 - 3D Fullscreen 	Expand the 3D View window to occupy the entire screen in fullscreen mode. To exit fullscreen mode, simply press Escap key.
 
 
->Tools
+> Tools
 
 ![Tools](Images/Tools.png)
 
@@ -77,7 +77,8 @@
 - Update Missing Parameter 	Update to add new parameter added recently.
 - Convert Project 	Convert the project is the file you want.
 - Screenshot 	Take a screenshot of the 3D viewer, with an zoom option, or a screenshot from the window.
->Help
+
+> Help
 
 ![Help](Images/Help.png)
 
@@ -88,6 +89,31 @@
 - Activation 	They are 4 different sections : a demo one, which will end in 30min; a professional one; an educational one and a ultimate one.
 
 ## Horizontal bar :id=horizontalbar
+
+> Simulation Tools
+
+![SimulationTools](Images/Simulation_Bar.png)
+
+- ![](Images/Stop.png) The Stop and Run Button enable you to run in time, or stop time your simulation. You can have more information Here
+- ![](Images/Reset.png) The reset button permit you to reset all data, that have been used during the simulation. You can have more information Here
+- ![](Images/Config.png) The config button permit you to select or create a config. You can have more information Here
+- ![](Images/Layer.png) The layer buttons permits you to show or unshow some visual help, such as a grid, mechanical preview and more. You can have more information Here
+- ![](Images/Display.png) The display button enables you to switch between different views, between : CAO view opaque view or WireFrame view. You can have more information Here
+- ![](Images/Layout.png) The layouts button enables you to choose among different layout. You can have more information Here
+
+> 3D Tools
+
+![SimulationTools](Images/3D_tool.png)
+
+- ![](Images/translation.png) 	The translation tool permit you to move along X,Y or Z axis your object.
+- ![](Images/rotation.png) 	The rotation tool permit you to rotate along X,Y or Z axis your object.
+- ![](Images/resized.png) 	The resize tool permit you to up scale, or down scale your object.
+- ![](Images/universal.png) 	The universal tool permit you to move, rotate and resize in one tool an object.
+- ![](Images/transform.png) 	The Transform local/global tool enable you to change between the global reference or the object reference.
+- ![](Images/Attach.png) 	The link tool enable you to link two conveyor together to be move and modify together.
+- ![](Images/Symmetry.png) 	The symetry tool enable you to move an object or a group, in symmetry along an axis.
+- ![](Images/Duplicate.png) 	The transformation tool permit you to transform object by duplicate an object or a group.
+- ![](Images/Duplicated.png) 	The align tool enables you to align your conveyors, correctly in your project.
 
 ## Vertical bar :id=verticalbar
 
