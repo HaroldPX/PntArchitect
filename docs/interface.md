@@ -117,7 +117,30 @@
 
 ## Vertical bar :id=verticalbar
 
+The vertical bar is useful to manipulate product and adjust your point of view, during your simulation
+
+![Vertical_Bar](Images/Vertical_Bar.png)
+
+- ![](Images/Rose_des_vents.png) 	This button open on top of the 3D viewer window a panel that enables you to move, rotate and zoom the camera just by click on it
+- ![](Images/Pointer.png) 	This button enable to select the pointer, when your mouse is not configured as a pointer.
+- ![](Images/Add.png) 	This button will permit you to add a product wherever you want in the simulation. You can see a pre-visualization, when you move your mouse.
+- ![](Images/Remove.png) 	This button will remove from the simulation the targeted product.
+- ![](Images/Drag.png) 	This button will enable you to drag a product during the simulation.
+- ![](Images/Freeze.png) 	This button enable you to stop in time an object during the simulation. The product will be fixed and can't move at all.
+- ![](Images/Generator.png) 	This button will generated a product generator where you point, automatically. You need to configure it, in order to use a generator.
+- ![](Images/Measure.png) 	This button permit you to move a cell during a simulation.
+- ![](Images/translation.png) 	This button enables you to measure a distance between 2 point in the simulation.
+- ![](Images/Camera.png) 	This button permit you to settle a point of view, where you camera was when you click on the button. You will be able to see this point of view at any time.
+- ![](Images/Spy.png) 	The spy button enables you to monitor the data of a product in a selected area, during a simulation.
+- ![](Images/translation.png) 	This button make the link between the simulation an you VR headset.
+- ![](Images/fps.png) 	This button make your point of view, in first person.
+
 ## Bottom bar :id=bottombar
+
+![Bottom_Bar](Images/BottomBar.png)
+
+- Information 	Show some information from the object that you hovering, such as object type, CAB, 3D characteristic. ![Information.png](Images/Information.png)
+- FPS 	Show you the current FPS of your 3D environment. You can optimize your FPS in Preference. ![IPS.png](Images/IPS.png)
 
 
 
