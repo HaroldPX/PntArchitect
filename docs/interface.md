@@ -155,8 +155,8 @@ The vertical bar is useful to manipulate product and adjust your point of view, 
 ![Bottom_Bar](Images/BottomBar.png)
 
 <table><tbody>
-<tr><td>Information</td><td> 	Show some information from the object that you hovering, such as object type, CAB, 3D characteristic. ![Information.png](Images/Information.png"></td>
-<tr><td>FPS</td><td> 	Show you the current FPS of your 3D environment. You can optimize your FPS in Preference. ![IPS.png](Images/IPS.png"></td>
+<tr><td>Information</td><td> 	Show some information from the object that you hovering, such as object type, CAB, 3D characteristic. <img src="Images/Information.png"></td>
+<tr><td>FPS</td><td> 	Show you the current FPS of your 3D environment. You can optimize your FPS in Preference. <img src="Images/IPS.png"></td>
 </tbody></table>
 
 
