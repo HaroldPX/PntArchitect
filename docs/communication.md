@@ -13,7 +13,7 @@ To make the good communication you need to follow those four step :
 	- [Aliasing](#aliasing)
 	- [Link](#link)
 	- [Play](#play)
-
+	- [Window](#window)
 
 
 
@@ -64,5 +64,164 @@ Once you have entered the IP and Path information, you can select the specific P
 ## Play :id=play
 
 After Tagging your I/O, Aliasing correctly and link Architect with your PLC, you can now turn on the Run mode, and see your simulation in action. 
+
+
+## Window :id=window
+
+The communication window serves as the interface between Architect and your automate. It displays the status of each data element in your simulation, including its address, status, alias, and more. It will create a .alias file at the root of the project.
+
+![Middle](Images/WindowController.png ':size=500')
+
+>Top bar
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>+</td>
+            <td>Add a New automate</td>
+        </tr>
+        <tr>
+            <td>PLC Type</td>
+            <td>Choose your type of PLC.</td>
+        </tr>
+        <tr>
+            <td>IP</td>
+            <td>Write the IP of your PLC.</td>
+        </tr>
+        <tr>
+            <td>Path</td>
+            <td>Write the path of your PLC.</td>
+        </tr>
+        <tr>
+            <td>Scan Rate</td>
+            <td>Choose the scan rate for the PLC.</td>
+        </tr>
+        <tr>
+            <td>IsConnected</td>
+            <td>Show if the PLC is connected.</td>
+        </tr>
+        <tr>
+            <td>Connect at Run</td>
+            <td>Auto connect in Run Mode.</td>
+        </tr>
+        <tr>
+            <td>Connect to Excel</td>
+            <td>Address all tag with Excel.</td>
+        </tr>
+</tbody></table>
+
+>Tab
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Address</td>
+            <td>PLC Address for the I/O</td>
+        </tr>
+        <tr>
+            <td>Alias</td>
+            <td>name of the I/O.</td>
+        </tr>
+        <tr>
+            <td>Status</td>
+            <td>Show the status of the I/O.</td>
+        </tr>
+        <tr>
+            <td>TrueStatus</td>
+            <td>show the state of the I/O see from the PLC.</td>
+        </tr>
+        <tr>
+            <td>InitValue</td>
+            <td>Iniatilization of the first I/O value.</td>
+        </tr>
+        <tr>
+            <td>Data_ID</td>
+            <td>.</td>
+        </tr>
+</tbody></table>
+
+>PLC Type
+
+Architect supports various types of PLCs, and to establish a connection between the PLC and Architect, you need specific software that acts as a bridge between them. There are three different software options available: IESA Link Client, KEPServer, and RS_Linx. These software tools facilitate the seamless integration and communication between your PLC and Architect.
+
+Most of the PLC types listed in Architect are compatible with IESA Link Client for communication. However, the last two PLC types, namely "OPC_RS_Linx" and "OPC_KEP_VS", require specific software for integration. "OPC_RS_Linx" is compatible with RS_Linx, while "OPC_KEP_VS" works with KEPServer for establishing the connection between the PLC and Architect.
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>RS_Micro</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>RS_PLC</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>RS_MicroPLCCNET</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>RS_SLC</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>S7_200</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>S7_300</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>S7_400</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>S7_1200</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>MB_TCP</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>MB_SOE</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>ADS_TWINCAT2</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>ADS_TWINCAT3</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>OPC_RS_LINX</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>OPC_KEP_V5</td>
+            <td>.</td>
+        </tr>
+</tbody></table>
+
+Almost all of the PLC listed here, need an IP and a Path. Each PLC have a different way to written the PLC, but most of them are the number of the slot use in the CPU.
+
+- Siemens : Use the backplane
+- S7_200 to S7_1200 : Use 0.1 or 0.2
+- Twincat : Use and number with 6 dot (.), 
+
+
+
 
 
