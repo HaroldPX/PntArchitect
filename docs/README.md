@@ -1,3 +1,3 @@
 # Plug'n Test Architect
 
-> Documentation.
+> [Documentation](https://haroldpx.github.io/PntArchitect/).
