@@ -2280,20 +2280,6 @@ No attributes for this object.
 - [Jack IK](#jackik)
 
 
-## Indicator :id=indicator
-
->What is it ?
-
-![Middle](Images/Indicator.png ':size=200')
-
->Inspector
-
->Data Monitor
-
->Specifies
-
->Example
-
 ## Centering Device :id=centeringdevice
 
 >What is it ?
@@ -2476,7 +2462,7 @@ No attributes for this object.
 
 >What is it ?
 
-![Middle](Images/Gripper2Axe.png ':size=200')
+![Middle](Images/Gripper1Axe.png ':size=200')
 
 >Inspector
 
@@ -3131,21 +3117,6 @@ No attributes for this object.
 - [Shape](#shape)
 
 
-
-## Indicator :id=indicator
-
->What is it ?
-
-![Middle](Images/Indicator.png ':size=200')
-
->Inspector
-
->Data Monitor
-
->Specifies
-
->Example
-
 ## Gocator Box :id=gocatorbox
 
 >What is it ?
@@ -3204,171 +3175,2884 @@ No attributes for this object.
 
 >Example
 
-## Indicator :id=indicator
+## Border :id=border
 
 >What is it ?
 
-![Middle](Images/Indicator.png ':size=200')
+![Middle](Images/Border.png ':size=200')
 
 >Inspector
 
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Element Lenght</td>
+            <td>Lenght of the decoration.</td>
+        </tr>
+</tbody></table>
+
 >Data Monitor
+
+No Specific attributes.
 
 >Specifies
 
 >Example
 
-## Indicator :id=indicator
+## BundleObject :id=bundleobject
 
 >What is it ?
 
-![Middle](Images/Indicator.png ':size=200')
+![Middle](Images/BundleObject.png ':size=200')
 
 >Inspector
 
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the decoration.</td>
+        </tr>
+        <tr>
+            <td>Bundle Name</td>
+            <td>Choose the bundle.</td>
+        </tr>
+        <tr>
+            <td>Asset Name</td>
+            <td>Choose the asset.</td>
+        </tr>
+        <tr>
+            <td>Measurable</td>
+            <td>Can be measurable.</td>
+        </tr>
+        <tr>
+            <td>Detectable</td>
+            <td>Can be detectable.</td>
+        </tr>
+        <tr>
+            <td>Custom ID</td>
+            <td>Customize the object's ID.</td>
+        </tr>
+        <tr>
+            <td>Physicalize</td>
+            <td>Will not pass through object that physicalize too.</td>
+        </tr>
+        <tr>
+            <td>gravity</td>
+            <td>Is subject to gravity.</td>
+        </tr>
+</tbody></table>
+
 >Data Monitor
+
+No Specific attributes.
 
 >Specifies
 
 >Example
 
-## Indicator :id=indicator
+## Button Box :id=buttonbox
 
 >What is it ?
 
-![Middle](Images/Indicator.png ':size=200')
+![Middle](Images/ButtonBox.png ':size=200')
 
 >Inspector
 
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Name given that will appear on top of the conveyor.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the decoration.</td>
+        </tr>
+        <tr>
+            <td>Model</td>
+            <td>Choose a model.</td>
+        </tr>
+        <tr>
+            <td>Interactive</td>
+            <td>Can be measurable.</td>
+        </tr>
+</tbody></table>
+
 >Data Monitor
+
+No Specific attributes.
 
 >Specifies
 
 >Example
 
-## Indicator :id=indicator
+## Cabinet :id=cabinet
 
 >What is it ?
 
-![Middle](Images/Indicator.png ':size=200')
+![Middle](Images/Cabinet.png ':size=200')
 
 >Inspector
 
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Name given that will appear on top of the conveyor.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the decoration.</td>
+        </tr>
+        <tr>
+            <td>Model</td>
+            <td>Choose a model.</td>
+        </tr>
+</tbody></table>
+
 >Data Monitor
+
+No Specific attributes.
 
 >Specifies
 
 >Example
 
-## Indicator :id=indicator
+## Duckboard :id=duckboard
 
 >What is it ?
 
-![Middle](Images/Indicator.png ':size=200')
+![Middle](Images/Duckboard.png ':size=200')
 
 >Inspector
 
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the decoration.</td>
+        </tr>
+    </tbody></table>
+
 >Data Monitor
+
+No Specific attributes.
 
 >Specifies
 
 >Example
 
-## Indicator :id=indicator
+## Fence :id=fence
 
 >What is it ?
 
-![Middle](Images/Indicator.png ':size=200')
+![Middle](Images/Fence.png ':size=200')
 
 >Inspector
 
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the decoration.</td>
+        </tr>
+    </tbody></table>
+
 >Data Monitor
+
+No Specific attributes.
 
 >Specifies
 
 >Example
 
-## Indicator :id=indicator
+## Label :id=label
 
 >What is it ?
 
-![Middle](Images/Indicator.png ':size=200')
+![Middle](Images/Label.png ':size=200')
 
 >Inspector
 
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the decoration.</td>
+        </tr>
+        <tr>
+            <td>Color ARGB</td>
+            <td>Color of the decoration.</td>
+        </tr>
+        <tr>
+            <td>Parameter text</td>
+            <td>Text that will be display as Decoration.</td>
+        </tr>
+    </tbody></table>
+
 >Data Monitor
+
+No Specific attributes.
 
 >Specifies
 
 >Example
 
-## Indicator :id=indicator
+## Light :id=light
 
 >What is it ?
 
-![Middle](Images/Indicator.png ':size=200')
+![Middle](Images/Light.png ':size=200')
 
 >Inspector
 
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the decoration.</td>
+        </tr>
+        <tr>
+            <td>Lights</td>
+            <td>Choose your color of your lights.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Name given that will appear on top of the conveyor.</td>
+        </tr>
+        <tr>
+            <td>Feets</td>
+            <td>Add feets.</td>
+        </tr>
+    </tbody></table>
+
 >Data Monitor
+
+No Specific attributes.
 
 >Specifies
 
 >Example
 
-## Indicator :id=indicator
+## Model :id=model
 
 >What is it ?
 
-![Middle](Images/Indicator.png ':size=200')
+![Middle](Images/Model.png ':size=200')
 
 >Inspector
 
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the decoration.</td>
+        </tr>
+        <tr>
+            <td>Parameter text</td>
+            <td>Text that will be display as Decoration..</td>
+        </tr>
+        <tr>
+            <td>Physicalize</td>
+            <td>Will not pass through object that physicalize too.</td>
+        </tr>
+        <tr>
+            <td>Gravity</td>
+            <td>Is subject to gravity.</td>
+        </tr>
+    </tbody></table>
+
 >Data Monitor
+
+No Specific attributes.
 
 >Specifies
 
 >Example
 
-## Indicator :id=indicator
+## Panel :id=panel
 
 >What is it ?
 
-![Middle](Images/Indicator.png ':size=200')
+![Middle](Images/Panel.png ':size=200')
 
 >Inspector
 
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the decoration.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Name given that will appear on top of the conveyor.</td>
+        </tr>
+        <tr>
+            <td>Parameter text</td>
+            <td>Text that will be display as Decoration..</td>
+        </tr>
+    </tbody></table>
+
 >Data Monitor
+
+No Specific attributes.
 
 >Specifies
 
 >Example
 
-## Indicator :id=indicator
+## Primitive :id=primitive
 
 >What is it ?
 
-![Middle](Images/Indicator.png ':size=200')
+![Middle](Images/Primitive.png ':size=200')
 
 >Inspector
 
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>dimension of the sensor.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Display the lable on top of the sensor.</td>
+        </tr>
+        <tr>
+            <td>Color_ARGB</td>
+            <td>Choose a color for the sensor.</td>
+        </tr>
+        <tr>
+            <td>Selectable</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Physicalize</td>
+            <td>Will not pass through object that physicalize too.</td>
+        </tr>
+        <tr>
+            <td>Detectable</td>
+            <td>Will be detectable by other sensor.</td>
+        </tr>
+        <tr>
+            <td>Material</td>
+            <td>Choose a material for the sensor.</td>
+        </tr>
+        <tr>
+            <td>Texturetiling</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>Primitive</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>Friction</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>Custom ID</td>
+            <td>Customize the ID.</td>
+        </tr>
+    </tbody></table>
+
 >Data Monitor
+
+No Specific attributes.
 
 >Specifies
 
 >Example
 
-## Indicator :id=indicator
+## Shape :id=shape
 
 >What is it ?
 
-![Middle](Images/Indicator.png ':size=200')
+![Middle](Images/Shape.png ':size=200')
 
 >Inspector
 
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>IsEnable</td>
+            <td>Enable the shape.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>dimension of the sensor.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Display the lable on top of the sensor.</td>
+        </tr>
+        <tr>
+            <td>Color_ARGB</td>
+            <td>Choose a color for the sensor.</td>
+        </tr>
+        <tr>
+            <td>Model</td>
+            <td>Choose a model.</td>
+        </tr>
+        <tr>
+            <td>Selectable</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Physicalize</td>
+            <td>Will not pass through object that physicalize too.</td>
+        </tr>
+        <tr>
+            <td>Material</td>
+            <td>Choose a material for the sensor.</td>
+        </tr>
+        <tr>
+            <td>Texturetiling</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>Detectable</td>
+            <td>Will be detectable by other sensor.</td>
+        </tr>
+    </tbody></table>
+
 >Data Monitor
+
+No specific attributes.
 
 >Specifies
 
 >Example
 
+## Mix :id=mix
+
+<table>
+    <tbody><tr>
+        <th>Name</th>
+        <th>Icon</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/objects/mix/mix-sensor/">Mix Sensor</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0136.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/objects/mix/hopper/">Hopper</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0136.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/objects/mix/pipe/">Pipe</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0136.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/objects/mix/absorber/">Absorber</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0136.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/objects/mix/emitter/">Emitter</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0136.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/objects/mix/endless-screw/">Endless Screw</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0136.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+</tbody></table>
+
+- [Mix Sensor](#mixsensor)
+- [Hopper](#hopper)
+- [Pipe](#pipe)
+- [Absorber](#absorber)
+- [Emitter](#emitter)
+- [Endless Screw](#endlessscrew)
+
+
+
+## Mix Sensor :id=mixsensor
+
+>What is it ?
+
+![Middle](Images/MixSensor.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>NO_NC</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Display the lable on top of the sensor.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the mix.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DI_Valeur</td>
+            <td>Read the value.</td>
+        </tr>
+            <tr><td>DI_Volume</td>
+            <td>Read the volume.</td>
+		</tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Hopper :id=hopper
+
+>What is it ?
+
+![Middle](Images/Hopper.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Display the lable on top of the sensor.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the mix.</td>
+        </tr>
+        <tr>
+            <td>Model</td>
+            <td>Choose your model.</td>
+        </tr>
+        <tr>
+            <td>Color_ARGB</td>
+            <td>Choose the color of the mix.</td>
+        </tr>
+        <tr>
+            <td>Value_Max</td>
+            <td>Maximum value taken by the mix.</td>
+        </tr>
+        <tr>
+            <td>Iniatial position</td>
+            <td>The value of the iniatial position.</td>
+        </tr>
+        <tr>
+            <td>Speed</td>
+            <td>Set the speed to the value.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DO_Open</td>
+            <td>Open the hopper.</td>
+        </tr>
+            <tr><td>DI_Closed</td>
+            <td>Read if the hopper is close.</td>
+        </tr>
+            <tr><td>DI_Openned</td>
+            <td>Read if the hopper is open.</td>
+        </tr>
+            <tr><td>DO_flow_0_1000</td>
+            <td>Set the hopper's flow to the value.</td>
+        </tr>
+            <tr><td>DI_Weight</td>
+            <td>Read the weight.</td>
+        </tr>
+            <tr><td>DI_Volume</td>
+            <td>Read the volume.</td>
+		</tr>
+            <tr><td>DI_High</td>
+            <td>Read if the hopper is in high position.</td>
+		</tr>
+            <tr><td>DI_Low</td>
+            <td>Read if the hopper is in low position.</td>
+		</tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Pipe :id=pipe
+
+>What is it ?
+
+![Middle](Images/Pipe.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Display the lable on top of the sensor.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the mix.</td>
+        </tr>
+        <tr>
+            <td>Model</td>
+            <td>Choose your model.</td>
+        </tr>
+        <tr>
+            <td>Color_ARGB</td>
+            <td>Choose the color of the mix.</td>
+        </tr>
+        <tr>
+            <td>Value_Max</td>
+            <td>Maximum value taken by the mix.</td>
+        </tr>
+        <tr>
+            <td>Iniatial position</td>
+            <td>The value of the iniatial position.</td>
+        </tr>
+        <tr>
+            <td>Speed</td>
+            <td>Set the speed to the value.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DO_flow_0_1000</td>
+            <td>Set the hopper's flow to the value.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Absorber :id=absorber
+>What is it ?
+
+![Middle](Images/Absorber.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Speed</td>
+            <td>Set the speed to the value.</td>
+        </tr>
+        <tr>
+            <td>Target</td>
+            <td>Choose your target.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DO_Volume</td>
+            <td>Set the volume to the value.</td>
+        </tr>
+        </tr>
+            <tr><td>DI_Volume</td>
+            <td>Read the volume.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Emitter :id=emitter
+
+>What is it ?
+
+![Middle](Images/Emitter.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Speed</td>
+            <td>Set the speed to the value.</td>
+        </tr>
+        <tr>
+            <td>Target</td>
+            <td>Choose your target.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DO_Volume</td>
+            <td>Set the volume to the value.</td>
+        </tr>
+        
+            <tr><td>DI_Volume</td>
+            <td>Read the volume.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Endless Screw :id=endlessscrew
+
+>What is it ?
+
+![Middle](Images/EndlessScrew.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Start Position</td>
+            <td>Start position of the conveyor.</td>
+        </tr>
+        <tr>
+            <td>End Position</td>
+            <td>End position of the conveyor.</td>
+        </tr>
+        <tr>
+            <td>Speed</td>
+            <td>Set the speed to the value.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Name given that will appear on top of the conveyor.</td>
+        </tr>
+        <tr>
+            <td>Width</td>
+            <td>Width of the screw.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DO_Forward</td>
+            <td>Go forward.</td>
+        </tr>
+            <tr><td>DO_Backward</td>
+            <td>Go backward.</td>
+        </tr>
+            <tr><td>DI_Encoder</td>
+            <td>Read the encoder.</td>
+        </tr>
+            <tr><td>DO_Reset</td>
+            <td>Reset the encoder to 0.</td>
+        </tr>
+            <tr><td>DO_Reset_Value</td>
+            <td>Reset the encoder to the value.</td>
+        </tr>
+            <tr><td>DI_Moving</td>
+            <td>Read if the screw is moving forward.</td>
+        </tr>
+            <tr><td>DI_Reverse</td>
+            <td>Read if the screw is moving backward.</td>
+        </tr>
+            <tr><td>DO_Speed_0_1000</td>
+            <td>Set the speed to the value.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Handling :id=handling
+
+<table>
+    <tbody><tr>
+        <th>Name</th>
+        <th>Icon</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/agv/">AGV</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/character/">Character</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/teleport/">Teleporter</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/remover/">Remover</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/stock/">Stock</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/grabber-object/">Grabber Object</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/grabber-product/">Grabber Product</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+</tbody></table>
+
+- [AVG](#avg)
+- [Character](#character)
+- [Teleporter](#teleporter)
+- [Remover](#remover)
+- [Stock](#stock)
+- [Grabber Object](#grabberobject)
+- [Grabber Product](#grabberproduct)
+
+## AGV :id=agv
+
+>What is it ?
+
+![Middle](Images/AGV.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Speed</td>
+            <td>Set the speed to the value.</td>
+        </tr>
+        <tr>
+            <td>Speed 2</td>
+            <td>Set the second speed to the value.</td>
+        </tr>
+        <tr>
+            <td>Inverse_Axis_X</td>
+            <td>Inverse the X Axis</td>
+        </tr>
+        <tr>
+            <td>Inverse_Axis_Y</td>
+            <td>inverse the Y Axis</td>
+        </tr>
+        <tr>
+            <td>Acceleration</td>
+            <td>Set the acceleration to the value.</td>
+        </tr>
+        <tr>
+            <td>Detectable</td>
+            <td>Will be detectable by others.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>dimension of the sensor.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DO_Move_To</td>
+            <td>Move forward or backward the AGV.</td>
+        </tr>
+            <tr><td>DO_Move_To2</td>
+            <td>Move to the left or right the AGV.</td>
+        </tr>
+            <tr><td>DO_Move_To3</td>
+            <td>Rotate the AGV.</td>
+        </tr>
+            <tr><td>DO_Move_To4</td>
+            <td>.</td>
+        </tr>
+            <tr><td>DO_Raise</td>
+            <td>Raise the AGV.</td>
+        </tr>
+            <tr><td>DO_Lower</td>
+            <td>Lower the AGV.</td>
+        </tr>
+            <tr><td>DI_Presence</td>
+            <td>Read if an obstacle is on the way.</td>
+        </tr>
+            <tr><td>DI_High</td>
+            <td>Read if the AGV is raised.</td>
+        </tr>
+            <tr><td>DI_Low</td>
+            <td>Read if the AGV is lowered.</td>
+        </tr>
+            <tr><td>DI_Position_OK</td>
+            <td>Read if the AGV's position is correct.</td>
+        </tr>
+            <tr><td>DO_Jog_Enable</td>
+            <td>Enable the movement.</td>
+        </tr>
+            <tr><td>DO_Jog_Forward</td>
+            <td></td>
+        </tr>
+            <tr><td>DO_Jog_Backward</td>
+            <td></td>
+        </tr>
+            <tr><td>DO_Speed_0_1000</td>
+            <td>Set the speed to the value.</td>
+        </tr>
+            <tr><td>DO_Speed2_0_1000</td>
+            <td>Set the second speed to the value.</td>
+        </tr>
+            <tr><td>DO_Speed3_0_1000</td>
+            <td>Set the third speed to the value.</td>
+        </tr>
+            <tr><td>DI_Speed_0_1000</td>
+            <td>Read the global speed of the AGV.</td>
+        </tr>
+            <tr><td>DI_RealSpeed</td>
+            <td>read the real speed in m/s.</td>
+        </tr>
+            <tr><td>DO_Acceleration</td>
+            <td>Set the acceleration to the value.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Character :id=character
+
+>What is it ?
+
+![Middle](Images/Character.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Model</td>
+            <td>Choose the model.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DI_Moving</td>
+            <td>Read if the character is moving.</td>
+        </tr>
+            <tr><td>DI_Position_OK</td>
+            <td>Read if the character's position is correct.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Teleport :id=teleport
+
+>What is it ?
+
+![Middle](Images/Teleport.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment for the first part of the teleporter.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the first part of the teleport.</td>
+        </tr>
+        <tr>
+            <td>Dimension_2</td>
+            <td>Dimension of the second part of the teleport.</td>
+        </tr>
+        <tr>
+            <td>Target_Position</td>
+            <td>position of the target.</td>
+        </tr>
+        <tr>
+            <td>Nb_Element</td>
+            <td>Number of element teleported in the same time.</td>
+        </tr>
+        <tr>
+            <td>Orientation_2</td>
+            <td>Orientation in the 3D environment for the second part of the teleporter.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DO_Take</td>
+            <td>Grab a product.</td>
+        </tr>
+            <tr><td>DO_Drop</td>
+            <td>Drop a product.</td>
+        </tr>
+            <tr><td>DI_Count</td>
+            <td>Count the number of product teleported.</td>
+        </tr>
+            <tr><td>DI_Presence</td>
+            <td>Read if the teleporter have a product in the first part.</td>
+        </tr>
+            <tr><td>DI_Presence_2</td>
+            <td>Read if the teleporter have a product in the second part.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Remover :id=remover
+
+>What is it ?
+
+![Middle](Images/Remover.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the grabber.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Name given that will appear on top of the conveyor.</td>
+        </tr>
+        <tr>
+            <td>Color_ARGB</td>
+            <td>Choose the color of the grabber.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DI_Presence</td>
+            <td>Read if the grabber have a product.</td>
+        </tr>
+            <tr><td>DO_Start</td>
+            <td>Start the remover.</td>
+		</tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Stock :id=stock
+
+>What is it ?
+
+![Middle](Images/Stock.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+        <tr>
+            <td>Nb_Element</td>
+            <td>Number of element stocked.</td>
+        </tr>
+        <tr>
+            <td>Feets</td>
+            <td>Show feets</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+
+
+>Specifies
+
+>Example
+
+## Grabber Object :id=grabberobject
+
+>What is it ?
+
+![Middle](Images/GrabberObject.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the grabber.</td>
+        </tr>
+        <tr>
+            <td>Color_ARGB</td>
+            <td>Choose the color of the grabber.</td>
+        </tr>
+        <tr>
+            <td>Iskenmatic</td>
+            <td>.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DO_Take</td>
+            <td>Grab a product.</td>
+        </tr>
+            <tr><td>DO_Drop</td>
+            <td>Drop a product.</td>
+        </tr>
+        
+            <tr><td>DI_Presence</td>
+            <td>Read if the grabber have a product.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Grabber Product :id=grabberproduct
+
+>What is it ?
+
+![Middle](Images/GrabberProduct.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+        <tr>
+            <td>Color_ARGB</td>
+            <td>choose the color.</td>
+        </tr>
+        <tr>
+            <td>isKinematic</td>
+            <td>.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DO_Take</td>
+            <td>Grab a product.</td>
+        </tr>
+            <tr><td>DO_Drop</td>
+            <td>Drop a product.</td>
+        </tr>
+            <tr><td>DI_Presence</td>
+            <td>Read if the grabber have a product.</td>
+        </tr>
+            <tr><td>Grabber Product</td>
+            <td>.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Generator :id=generator
+
+>What is it ?
+
+![Middle](Images/GeneratorS.png ':size=200')
+
+>Inspector
+
+
+
+>Data Monitor
+
+
+
+>Specifies
+
+>Example
+
+## Connector :id=connector
+
+<table>
+    <tbody><tr>
+        <th>Name</th>
+        <th>Icon</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/analogic-input/">Analogic Input</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/analogic-output/">Analogic Output</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/exchange/">Exchange</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/input/">Input</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/output/">Output</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+</tbody></table>
+
+- [Analogic Input](#analogicinput)
+- [Analogic Output](#analogicoutput)
+- [Exchange](#exchange)
+- [Input](#input)
+- [Output](#output)
+
+## Analogic Input :id=analogicinput
+
+>What is it ?
+
+![Middle](Images/AnalogicInput.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+        <tr>
+            <td>Nb_Element</td>
+            <td>Number of elements.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>Liaison_AutoInt</td>
+            <td>Read the value of the connector.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Analogic Output :id=analogicoutput
+
+>What is it ?
+
+![Middle](Images/AnalogicOutput.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+        <tr>
+            <td>Nb_Element</td>
+            <td>Number of elements.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>Liaison_AutoInt</td>
+            <td>Write the value on connector.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Exchange :id=exchange
+
+>What is it ?
+
+![Middle](Images/Exchange.png ':size=200')
+
+>Inspector
+
+
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Input :id=input
+
+>What is it ?
+
+![Middle](Images/AnalogicInput.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>LiaisonAuto_DI</td>
+            <td>Read the value of the connector.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Output :id=output
+
+>What is it ?
+
+![Middle](Images/AnalogicOutput.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>LiaisonAuto_DO</td>
+            <td>Write the value of the connector.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Hookchains :id=hookchains
+
+<table>
+    <tbody><tr>
+        <th>Name</th>
+        <th>Icon</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/rail-i-o/">Rails I/O</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/loader/">Loader</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/unloader/">Unloader</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/hookchain/">Hookchain</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/rail-conveyor/">Rail Conveyor</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/sensor-2/">Sensor</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/rfid/">RFID</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/rail-stop/">Rail Stop</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+</tbody></table>
+
+- [RailsI/O](#railsio)
+- [Loaders](#loaders)
+- [Unloaders](#unloader)
+- [Hookchain](#hookchain)
+- [Rail Conveyors](#railconveyor)
+- [Sensor](#sensor)
+- [RFID](#rfid)
+- [Rail Stop](#railstop)
+
+
+## RailsIO :id=railsio
+
+>What is it ?
+
+![Middle](Images/RailsI/O.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+        <tr>
+            <td>Target</td>
+            <td>Choose a target.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DI_Presence</td>
+            <td>Read if an element is in the rails.</td>
+        </tr>
+            <tr><td>DO_Insert</td>
+            <td>Insert an element.</td>
+        </tr>
+            <tr><td>DO_Remove</td>
+            <td>Remove an element.</td>
+        </tr>
+            <tr><td>DI_count</td>
+            <td>Read the number of element in the rail.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Loader :id=Loader
+
+>What is it ?
+
+![Middle](Images/Loader.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Speed</td>
+            <td>Set the first speed to the value.</td>
+        </tr>
+        <tr>
+            <td>Speed_2</td>
+            <td>Set the second speed to the value.</td>
+        </tr>
+        <tr>
+            <td>Feets</td>
+            <td>Add feets.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Name given that will appear on top of the conveyor.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DO_Raise</td>
+            <td>Raise the loader.</td>
+        </tr>
+            <tr><td>DO_Lower</td>
+            <td>Lower the loader.</td>
+        </tr>
+            <tr><td>DI_High</td>
+            <td>Read if the loader is up.</td>
+        </tr>
+            <tr><td>DI_Low</td>
+            <td>Read if the loader is down.</td>
+        </tr>
+            <tr><td>DO_Up_Mvt1</td>
+            <td>Go up with the first movement.</td>
+        </tr>
+            <tr><td>DO_Down_Mvt1</td>
+            <td>Go down with the first movement.</td>
+        </tr>
+            <tr><td>DI_Up_Mvt1</td>
+            <td>Read if the loader go up with the first movement.</td>
+        </tr>
+            <tr><td>DI_Down_Mvt1</td>
+            <td>Read if the loader go down with the first movement.</td>
+        </tr>
+            <tr><td>DO_Up_Mvt2</td>
+            <td>Go up with the second movement.</td>
+        </tr>
+            <tr><td>DO_Down_Mvt2</td>
+            <td>Go down with the second movement.</td>
+        </tr>
+            <tr><td>DI_Up_Mvt2</td>
+            <td>Read if the loader go up with the second movement.</td>
+        </tr>
+            <tr><td>DI_Down_Mvt2</td>
+            <td>Read if the loader go down with the second movement.</td>
+        </tr>		
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Unloader :id=unloader
+
+>What is it ?
+
+![Middle](Images/Unloader.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Speed</td>
+            <td>Set the speed to the value.</td>
+        </tr>
+        <tr>
+            <td>Feets</td>
+            <td>Add feets.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Name given that will appear on top of the conveyor.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DO_Raise</td>
+            <td>Raise the loader.</td>
+        </tr>
+            <tr><td>DO_Lower</td>
+            <td>Lower the loader.</td>
+        </tr>
+            <tr><td>DI_High</td>
+            <td>Read if the loader is up.</td>
+        </tr>
+            <tr><td>DI_Low</td>
+            <td>Read if the loader is down.</td>
+        </tr>	
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Hookchain :id=hookchain
+
+>What is it ?
+
+![Middle](Images/Hookchain.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Speed</td>
+            <td>Set the speed to the value.</td>
+        </tr>
+        <tr>
+            <td>NB_Element</td>
+            <td>Number of elements.</td>
+        </tr>
+        <tr>
+            <td>List Points</td>
+            <td>List of checkpoint.</td>
+        </tr>
+        <tr>
+            <td>Rotation_CW</td>
+            <td>Rotate counterwise.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DO_Forward</td>
+            <td>Go forward.</td>
+        </tr>
+            <tr><td>DO_Speed_0_1000</td>
+            <td>Set the speed to the value.</td>
+        </tr>
+            <tr><td>DI_Encoder</td>
+            <td>Read the encoder's value.</td>
+        </tr>
+            <tr><td>DI_Running</td>
+            <td>Read if the hookchain is running.</td>
+        </tr>	
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Rail Conveyor :id=railconveyor
+
+>What is it ?
+
+![Middle](Images/RailConveyor.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Speed</td>
+            <td>Set the speed to the value.</td>
+        </tr>
+        <tr>
+            <td>NB_Element</td>
+            <td>Number of elements.</td>
+        </tr>
+        <tr>
+            <td>Element_Lenght</td>
+            <td>lenght of elements.</td>
+        </tr>
+        <tr>
+            <td>List Points</td>
+            <td>List of checkpoint.</td>
+        </tr>
+        <tr>
+            <td>Rotation_CW</td>
+            <td>Rotate counterwise.</td>
+        </tr>
+        <tr>
+            <td>Acceleration</td>
+            <td>Set the Acceleration to the value.</td>
+        </tr>
+        <tr>
+            <td>Model</td>
+            <td>Set the Acceleration to the value.</td>
+        </tr>
+        <tr>
+            <td>Parameter_Text</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>IsSplineB</td>
+            <td>.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DI_Encoder</td>
+            <td>Read the encoder.</td>
+        </tr>
+            <tr><td>DI_Running</td>
+            <td>read if the conveyor is running.</td>
+        </tr>
+            <tr><td>DO_Reset</td>
+            <td>Reset to 0 the encoder.</td>
+        </tr>
+            <tr><td>DO_Reset_Value</td>
+            <td>Reset to the value the encoder.</td>
+        </tr>
+            <tr><td>DO_Speed_0_1000</td>
+            <td>set the speed to the value.</td>
+        </tr>
+            <tr><td>DO_Jog_Enable</td>
+            <td>Enable movement.</td>
+        </tr>
+            <tr><td>DO_Jog_Forward</td>
+            <td>Go Forward.</td>
+        </tr>
+            <tr><td>DO_Jog_Backward</td>
+            <td>Go backward.</td>
+        </tr>
+            <tr><td>DO_MoveTo</td>
+            <td>Move the value in mm.</td>
+        </tr>
+            <tr><td>DO_Start</td>
+            <td>Start the movement.</td>
+        </tr>
+            <tr><td>DI_Position_OK</td>
+            <td>Read if the conveyor is in a good position.</td>
+        </tr>
+            <tr><td>DI_Speed_0_1000</td>
+            <td>Read the speed.</td>
+        </tr>		
+            <tr><td>DI_RealSpeed</td>
+            <td>Read the speed in m/s.</td>
+        </tr>
+            <tr><td>DO_Open</td>
+            <td>open the hookchain.</td>
+        </tr>
+            <tr><td>DI_Openned</td>
+            <td>Read if the hookchain is open.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Sensor :id=sensor
+
+>What is it ?
+
+![Middle](Images/SensorH.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Element_lenght</td>
+            <td>Lenght of element.</td>
+        </tr>
+        <tr>
+            <td>Target</td>
+            <td>Choose a target.</td>
+        </tr>
+        <tr>
+            <td>Valid_Regex</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>True_Status</td>
+            <td>.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DI_Lecture</td>
+            <td>Read the sensor.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## RFID :id=rfid
+
+>What is it ?
+
+![Middle](Images/RFIDH.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Element_lenght</td>
+            <td>Lenght of element.</td>
+        </tr>
+        <tr>
+            <td>Target</td>
+            <td>Choose a target.</td>
+        </tr>
+        <tr>
+            <td>DI_Data</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>True_Status</td>
+            <td>.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DI_Lecture_OK</td>
+            <td>Read the sensor.</td>
+        </tr>
+            <tr><td>HookChainRFID</td>
+            <td>.</td>
+        </tr>
+            <tr><td>HookChainRFID</td>
+            <td>.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Rail Stop :id=railstop
+
+>What is it ?
+
+![Middle](Images/RailStop.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+        <tr>
+            <td>Target</td>
+            <td>Choose a target.</td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>Name given that will appear on top of the conveyor.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DO_Close</td>
+            <td>Close the rail.</td>
+        </tr>
+            <tr><td>DO_Open</td>
+            <td>Open the rail.</td>
+        </tr>
+            <tr><td>DI_Openned</td>
+            <td>Read if the rail is openned.</td>
+        </tr>
+            <tr><td>DI_Closed</td>
+            <td>Read if the rail is closed.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Unloader :id=Unloader
+
+>What is it ?
+
+![Middle](Images/Unloader.png ':size=200')
+
+>Inspector
+
+
+
+>Data Monitor
+
+
+
+>Specifies
+
+>Example
