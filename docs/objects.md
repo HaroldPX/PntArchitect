@@ -5006,321 +5006,7 @@ No specific attributes.
 
 >Example
 
-## Connector :id=connector
 
-<table>
-    <tbody><tr>
-        <th>Name</th>
-        <th>Icon</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/analogic-input/">Analogic Input</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
-        <td>Classic groups with no exclusive features.</td>
-    </tr>
-    <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/analogic-output/">Analogic Output</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
-        <td>Classic groups with no exclusive features.</td>
-    </tr>
-    <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/exchange/">Exchange</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
-        <td>Classic groups with no exclusive features.</td>
-    </tr>
-    <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/input/">Input</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
-        <td>Classic groups with no exclusive features.</td>
-    </tr>
-    <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/output/">Output</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
-        <td>Classic groups with no exclusive features.</td>
-    </tr>
-</tbody></table>
-
-- [Analogic Input](#analogicinput)
-- [Analogic Output](#analogicoutput)
-- [Exchange](#exchange)
-- [Input](#input)
-- [Output](#output)
-
-## Analogic Input :id=analogicinput
-
->What is it ?
-
-![Middle](Images/AnalogicInput.png ':size=200')
-
->Inspector
-
-<table>
-        <tbody><tr>
-            <th>Name</th>
-            <th>Description</th>
-        </tr>
-        <tr>
-            <td>Name</td>
-            <td>Name of the current section.</td>
-        </tr>
-        <tr>
-            <td>Position</td>
-            <td>Position in the 3D environment.</td>
-        </tr>
-        <tr>
-            <td>Orientation</td>
-            <td>Orientation in the 3D environment.</td>
-        </tr>
-        <tr>
-            <td>Description</td>
-            <td>Description given to the group.</td>
-        </tr>
-        <tr>
-            <td>UseEulerOriental</td>
-            <td>Use the euler Orientation to measure in radians.</td>
-        </tr>
-        <tr>
-            <td>Dimension</td>
-            <td>Dimension of the stock.</td>
-        </tr>
-        <tr>
-            <td>Nb_Element</td>
-            <td>Number of elements.</td>
-        </tr>
-    </tbody></table>
-
->Data Monitor
-
-<table>
-        <tbody><tr>
-            <th>I/O</th>
-            <th>Description</th>
-        </tr>
-            <tr><td>Liaison_AutoInt</td>
-            <td>Read the value of the connector.</td>
-        </tr>
-    </tbody></table>
-
->Specifies
-
->Example
-
-## Analogic Output :id=analogicoutput
-
->What is it ?
-
-![Middle](Images/AnalogicOutput.png ':size=200')
-
->Inspector
-
-<table>
-        <tbody><tr>
-            <th>Name</th>
-            <th>Description</th>
-        </tr>
-        <tr>
-            <td>Name</td>
-            <td>Name of the current section.</td>
-        </tr>
-        <tr>
-            <td>Position</td>
-            <td>Position in the 3D environment.</td>
-        </tr>
-        <tr>
-            <td>Orientation</td>
-            <td>Orientation in the 3D environment.</td>
-        </tr>
-        <tr>
-            <td>Description</td>
-            <td>Description given to the group.</td>
-        </tr>
-        <tr>
-            <td>UseEulerOriental</td>
-            <td>Use the euler Orientation to measure in radians.</td>
-        </tr>
-        <tr>
-            <td>Dimension</td>
-            <td>Dimension of the stock.</td>
-        </tr>
-        <tr>
-            <td>Nb_Element</td>
-            <td>Number of elements.</td>
-        </tr>
-    </tbody></table>
-
->Data Monitor
-
-<table>
-        <tbody><tr>
-            <th>I/O</th>
-            <th>Description</th>
-        </tr>
-            <tr><td>Liaison_AutoInt</td>
-            <td>Write the value on connector.</td>
-        </tr>
-    </tbody></table>
-
->Specifies
-
->Example
-
-## Exchange :id=exchange
-
->What is it ?
-
-![Middle](Images/Exchange.png ':size=200')
-
->Inspector
-
-
-
->Data Monitor
-
-<table>
-        <tbody><tr>
-            <th>Name</th>
-            <th>Description</th>
-        </tr>
-        <tr>
-            <td>Name</td>
-            <td>Name of the current section.</td>
-        </tr>
-        <tr>
-            <td>Position</td>
-            <td>Position in the 3D environment.</td>
-        </tr>
-        <tr>
-            <td>Orientation</td>
-            <td>Orientation in the 3D environment.</td>
-        </tr>
-        <tr>
-            <td>Description</td>
-            <td>Description given to the group.</td>
-        </tr>
-        <tr>
-            <td>UseEulerOriental</td>
-            <td>Use the euler Orientation to measure in radians.</td>
-        </tr>
-        <tr>
-            <td>Dimension</td>
-            <td>Dimension of the stock.</td>
-        </tr>
-    </tbody></table>
-
->Specifies
-
->Example
-
-## Input :id=input
-
->What is it ?
-
-![Middle](Images/AnalogicInput.png ':size=200')
-
->Inspector
-
-<table>
-        <tbody><tr>
-            <th>Name</th>
-            <th>Description</th>
-        </tr>
-        <tr>
-            <td>Name</td>
-            <td>Name of the current section.</td>
-        </tr>
-        <tr>
-            <td>Position</td>
-            <td>Position in the 3D environment.</td>
-        </tr>
-        <tr>
-            <td>Orientation</td>
-            <td>Orientation in the 3D environment.</td>
-        </tr>
-        <tr>
-            <td>Description</td>
-            <td>Description given to the group.</td>
-        </tr>
-        <tr>
-            <td>UseEulerOriental</td>
-            <td>Use the euler Orientation to measure in radians.</td>
-        </tr>
-        <tr>
-            <td>Dimension</td>
-            <td>Dimension of the stock.</td>
-        </tr>
-    </tbody></table>
-
->Data Monitor
-
-<table>
-        <tbody><tr>
-            <th>I/O</th>
-            <th>Description</th>
-        </tr>
-            <tr><td>LiaisonAuto_DI</td>
-            <td>Read the value of the connector.</td>
-        </tr>
-    </tbody></table>
-
->Specifies
-
->Example
-
-## Output :id=output
-
->What is it ?
-
-![Middle](Images/AnalogicOutput.png ':size=200')
-
->Inspector
-
-<table>
-        <tbody><tr>
-            <th>Name</th>
-            <th>Description</th>
-        </tr>
-        <tr>
-            <td>Name</td>
-            <td>Name of the current section.</td>
-        </tr>
-        <tr>
-            <td>Position</td>
-            <td>Position in the 3D environment.</td>
-        </tr>
-        <tr>
-            <td>Orientation</td>
-            <td>Orientation in the 3D environment.</td>
-        </tr>
-        <tr>
-            <td>Description</td>
-            <td>Description given to the group.</td>
-        </tr>
-        <tr>
-            <td>UseEulerOriental</td>
-            <td>Use the euler Orientation to measure in radians.</td>
-        </tr>
-        <tr>
-            <td>Dimension</td>
-            <td>Dimension of the stock.</td>
-        </tr>
-    </tbody></table>
-
->Data Monitor
-
-<table>
-        <tbody><tr>
-            <th>I/O</th>
-            <th>Description</th>
-        </tr>
-            <tr><td>LiaisonAuto_DO</td>
-            <td>Write the value of the connector.</td>
-        </tr>
-    </tbody></table>
-
->Specifies
-
->Example
 
 ## Hookchains :id=hookchains
 
@@ -5386,7 +5072,7 @@ No specific attributes.
 
 >What is it ?
 
-![Middle](Images/RailsI/O.png ':size=200')
+![Middle](Images/RailsIO.png ':size=200')
 
 >Inspector
 
@@ -6039,15 +5725,662 @@ No specific attributes.
 
 >Example
 
-## Unloader :id=Unloader
+## Connectors :id=connectors
+
+<table>
+    <tbody><tr>
+        <th>Name</th>
+        <th>Icon</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/analogic-input/">Analogic Input</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/analogic-output/">Analogic Output</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/exchange/">Exchange</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/input/">Input</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/output/">Output</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+</tbody></table>
+
+- [Analogic Input](#analogicinput)
+- [Analogic Output](#analogicoutput)
+- [Exchange](#exchange)
+- [Input](#input)
+- [Output](#output)
+
+## Analogic Input :id=analogicinput
 
 >What is it ?
 
-![Middle](Images/Unloader.png ':size=200')
+![Middle](Images/AnalogicInput.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+        <tr>
+            <td>Nb_Element</td>
+            <td>Number of elements.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>Liaison_AutoInt</td>
+            <td>Read the value of the connector.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Analogic Output :id=analogicoutput
+
+>What is it ?
+
+![Middle](Images/AnalogicOutput.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+        <tr>
+            <td>Nb_Element</td>
+            <td>Number of elements.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>Liaison_AutoInt</td>
+            <td>Write the value on connector.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Exchange :id=exchange
+
+>What is it ?
+
+![Middle](Images/Exchange.png ':size=200')
 
 >Inspector
 
 
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Input :id=input
+
+>What is it ?
+
+![Middle](Images/AnalogicInput.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>LiaisonAuto_DI</td>
+            <td>Read the value of the connector.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Output :id=output
+
+>What is it ?
+
+![Middle](Images/AnalogicOutput.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>LiaisonAuto_DO</td>
+            <td>Write the value of the connector.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## VR :id=vr
+
+<table>
+    <tbody><tr>
+        <th>Name</th>
+        <th>Icon</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/vr-2/panel-actions/">panel Actions</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0137.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/vr-2/vrinput/">VRInput</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0137.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/vr-2/vrposition/">VRPosition</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0137.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/vr-2/vrtools/">VRTools</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0137.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+    <tr>
+        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/rail-conveyor/">VRTrackers</a></td>
+        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0137.png" alt="Image"></td>
+        <td>Classic groups with no exclusive features.</td>
+    </tr>
+</tbody></table>
+
+- [Panel Actions](#panelactions)
+- [VRInput](#vrinput)
+- [VRPosition](#vrposition)
+- [VRTools](#vrtools)
+- [VRTrackers](#vrtrackers)
+
+## Panel Actions :id=panelactions
+
+>What is it ?
+
+![Middle](Images/PanelActions.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Model</td>
+            <td>Choose your panel model.</td>
+        </tr>
+        <tr>
+            <td>Parameter_Text</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>Hide model</td>
+            <td>Hide the model.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+
+
+>Specifies
+
+>Example
+
+## VRInput :id=vrinput
+
+>What is it ?
+
+![Middle](Images/VRInput.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Dimension</td>
+            <td>Dimension of the stock.</td>
+        </tr>
+        <tr>
+            <td>DI_Data</td>
+            <td>.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>VRInputDI_Data</td>
+            <td>Read the data.</td>
+        </tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## VRPosition :id=vrposition
+
+>What is it ?
+
+![Middle](Images/VRPosition.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Target</td>
+            <td>Choose your target.</td>
+        </tr>
+        <tr>
+            <td>Offset_position</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>Model</td>
+            <td>Choose a model.</td>
+        </tr>
+        <tr>
+            <td>Element_Distance</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>HideModel</td>
+            <td>.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+
+
+>Specifies
+
+>Example
+
+## VRTools :id=vrtools
+
+>What is it ?
+
+![Middle](Images/VRTools.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Width</td>
+            <td>Width of the VRTools.</td>
+        </tr>
+        <tr>
+            <td>Parameter_text</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>Model</td>
+            <td>Choose a model.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+
+
+>Specifies
+
+>Example
+
+## VRTrackers :id=vrtrackers
+
+>What is it ?
+
+![Middle](Images/VRTrackers.png ':size=200')
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euler Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Target</td>
+            <td>Choose a target.</td>
+        </tr>
+        <tr>
+            <td>Offset_Position</td>
+            <td>.</td>
+        </tr>
+            <tr><td>Offset_Rotation</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>HideModel</td>
+            <td>Hide the model.</td>
+        </tr>
+        <tr>
+            <td>VRDevice</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>Offset_Position_</td>
+            <td>.</td>
+        </tr>
+            <tr><td>Offset_Rotation_</td>
+            <td>.</td>
+        </tr>
+        <tr>
+            <td>Offset_Position_</td>
+            <td>.</td>
+        </tr>
+            <tr><td>Offset_Rotation_</td>
+            <td>.</td>
+        </tr>
+    </tbody></table>
 
 >Data Monitor
 
