@@ -34,3 +34,5 @@
   - [Hookchains](objects.md?id=hookchains)
   - [Connectors](objects.md?id=connectors)
   - [VR](objects.md?id=vr)
+* [Configuration Files](configurationfiles.md?id=configurationfiles)
+* [Edit & Run](edit&run.md?id=edit&run)

@@ -7,6 +7,8 @@ The 3D viewer is the primary window where you observe your simulation. It is cru
 	- [Control Gizmo](#controlgizmo)
 	- [Transformations](#transformations)
 	- [Views](#views)
+	- [Interaction](#interaction)
+
 
 ## Navigation :id=navigation
 
@@ -214,3 +216,53 @@ The window lock enables you to lock a certain window, on what is set now. It is 
 
 ![Symetry](Images/Lock.png ':size=150')
 
+## Interaction :id=interaction
+
+In the 3D scene, you can use many different keybindings :
+
+Left click on an object to select it. Then you can have access to the data related to this object, in the Hierarchy, Inspector and Data monitor window.
+
+<table>
+        <tbody><tr>
+            <th>Action</th>
+            <th>Description</th>
+        </tr>
+        
+            <tr><td>Delete</td>
+            <td>This will delete the object from your project.</td>
+        </tr>
+        <tr>
+            <td>Duplicate</td>
+            <td>This will duplicate your object in the simulation.</td>
+        </tr>
+        <tr>
+            <td>Deactivate</td>
+            <td>This will unshow the object from the simulation, and will turn off all his interaction in the simulation.</td>
+        </tr>
+        <tr>
+            <td>Hide</td>
+            <td>This will just make invisible the object.</td>
+        </tr>
+    </tbody></table>
+
+
+<table>
+        <tbody><tr>
+            <th>Action</th>
+            <th>Description</th>
+        </tr>
+        
+            <tr><td>Create</td>
+            <td>Add an object or a group to the simulation.</td>
+        </tr>
+        <tr>
+            <td>Convert to</td>
+            <td>Convert the last object added to a desired object or groups.</td>
+        </tr>
+        <tr>
+            <td>Delete All products</td>
+            <td>Delete all products in the simulation.</td>
+        </tr>
+    </tbody></table>
+
+All thoses interactions can be done in the hierarchy as well.
