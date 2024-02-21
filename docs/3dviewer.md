@@ -62,19 +62,19 @@ In the 3D viewer, you have access to four tools located above the 3D view window
             <th>Description</th>
         </tr>
         <tr>
-            <td><img class="image" src="http://10.0.1.47/wp-content/uploads/2023/07/translation.png" alt="Image 1"></td>
+            <td><img src="Images/translation.png"></td>
             <td>The translation tool permit you to move along X,Y or Z axis your object. You can have more information <a href="https://www.link1.com">Here</a></td>
         </tr>
         <tr>
-            <td><img class="image" src="http://10.0.1.47/wp-content/uploads/2023/07/Rotaion.png" alt="Image 2"></td>
+            <td><img src="Images/Rotation.png"></td>
             <td>The rotation tool permit you to rotate along X,Y or Z axis your object. You can have more information <a href="https://www.link1.com">Here</a></td>
         </tr>
         <tr>
-            <td><img class="image" src="http://10.0.1.47/wp-content/uploads/2023/07/Resized.png" alt="Image 3"></td>
+            <td><img src="Images/Resized.png"></td>
             <td>The resize tool permit you to up scale, or down scale your object. You can have more information <a href="https://www.link1.com">Here</a></td>
         </tr>
         <tr>
-            <td><img class="image" src="http://10.0.1.47/wp-content/uploads/2023/07/Universal.png" alt="Image 4"></td>
+            <td><img src="Images/Universal.png"></td>
             <td>The universal tool permit you to move, rotate and resize in one tool an object. You can have more information <a href="https://www.link1.com">Here</a></td>
         </tr>
     </tbody></table>

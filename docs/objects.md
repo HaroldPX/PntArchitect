@@ -9,79 +9,79 @@ On this section, will be present every groups and object, with description for a
         <th>Link</th>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/sections/">Section</a></td>
+        <td><a href="/#/groups.md?id=section">Section</a></td>
         <td>Main section, to organize project.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0121.png" alt="Image"></td>
+        <td><img src="Images/0121.png"></td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/groups/">groups</a></td>
+        <td><a href="/#/groups.md?id=groups">groups</a></td>
         <td>Groups that contains object, that will interact with each other.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0141.png" alt="Image"></td>
+        <td><img src="Images/0141.png"></td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/conveyor/">Conveyor</a></td>
+        <td><a href="/#/objects.md?id=conveyor">Conveyor</a></td>
         <td>Moving belt.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0113-1.png" alt="Image"></td>
+        <td><img src="Images/0113.png"></td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/sensors/">Sensors</a></td>
+        <td><a href="/#/objects.md?id=sensor">Sensors</a></td>
         <td>Cell and scanners.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0112-2.png" alt="Image"></td>
+        <td><img src="Images/0112.png"></td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/actuators/">Actuators</a></td>
+        <td><a href="/#/objects.md?id=actuators">Actuators</a></td>
         <td>Object that enable a movement.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0133.png" alt="Image"></td>
+        <td><img src="Images/0133.png"></td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/decoration/">Decoration</a></td>
+        <td><a href="/#/objects.md?id=decoration">Decoration</a></td>
         <td>Decoration.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0131.png" alt="Image"></td>
+        <td><img src="Images/0131.png"></td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/actuators/">Bands</a></td>
+        <td><a href="/#/objects.md?id=bands">Bands</a></td>
         <td>Specific object for band simulation.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0135.png" alt="Image"></td>
+        <td><img src="Images/0135.png"></td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/">Connector I/o</a></td>
+        <td><a href="/#/objects.md?id=connectors">Connector I/o</a></td>
         <td>Connectors to simulate I/O communication.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td><img src="Images/0132.png"></td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/mix/">Mix</a></td>
+        <td><a href="/#/objects.md?id=mix">Mix</a></td>
         <td>Specific object to move powder.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0136.png" alt="Image"></td>
+        <td><img src="Images/0136.png"></td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/">Handling</a></td>
+        <td><a href="/#/objects.md?id=handling">Handling</a></td>
         <td>Specific object to move object with handling.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td><img src="Images/0139.png"></td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/">Hookchains</a></td>
+        <td><a href="/#/objects.md?id=hookchain">Hookchains</a></td>
         <td>Specific object to move object with hookchains.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td><img src="Images/0134.png"></td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/vr-2/">VR</a></td>
+        <td><a href="/#/objects.md?id=vr">VR</a></td>
         <td>All object related with VR.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0137.png" alt="Image"></td>
+        <td><img src="Images/0137.png"></td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/controller/">Controllers</a></td>
+        <td><a href="/#/controllermanager.md?id=controller">Controllers</a></td>
         <td>Object that control the simulation with an IA.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0115.png" alt="Image"></td>
+        <td><img src="Images/0115.png"></td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/generators/">Generators</a></td>
+        <td><a href="/#/objects.md?id=generators">Generators</a></td>
         <td>Product generators.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td><img src="Images/0139.png"></td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/spies/">Spies</a></td>
+        <td><a href="/#/objects.md?id=spies">Spies</a></td>
         <td>Product monitor in an area.</td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0122-1.png" alt="Image"></td>
+        <td><img src="Images/0122.png"></td>
     </tr>
 </tbody></table>
 
@@ -99,73 +99,62 @@ A conveyor is a mechanical belt, uses to move product to one point to an other. 
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/conveyor/cross-table/">Cross table</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0113-1.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=crosstable">Cross table</a></td>
+        <td><img src="Images/0113.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/conveyor/turn-table/">Tutn Table</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0113-1.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=turntable">Turn Table</a></td>
+        <td><img src="Images/0113.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/conveyor/trt/">TRT</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0113-1.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=trt">TRT</a></td>
+        <td><img src="Images/0113.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/conveyor/trt-double/">TRT Double</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0113-1.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=trtdouble">TRT Double</a></td>
+        <td><img src="Images/0113.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/conveyor/free-rollers/">Free Rollers</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0113-1.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=freerollers">Free Rollers</a></td>
+        <td><img src="Images/0113.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/conveyor/spiral-cw/">Spiral CW</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0113-1.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=spiralcw">Spiral CW</a></td>
+        <td><img src="Images/0113.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/conveyor/spiral-acw/">Spiral ACW</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0113-1.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=spiralacw">Spiral ACW</a></td>
+        <td><img src="Images/0113.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/conveyor/curved-conveyor/">Curved Conveyor</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0113-1.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=curvedconveyor">Curved Conveyor</a></td>
+        <td><img src="Images/0113.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/conveyor/conveyor-simple/">Conveyor Simple</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0113-1.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=simpleconveyor">Simple Conveyor</a></td>
+        <td><img src="Images/0113.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/conveyor/conveyor-drive/">Conveyor Drive</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0113-1.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=conveyordrive">Conveyor Drive</a></td>
+        <td><img src="Images/0113.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/conveyor/noria/">Noria</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0113-1.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=noria">Noria</a></td>
+        <td><img src="Images/0113.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
 </tbody></table>
 
-- [Cross Table](#crosstable)
-- [Turn Table](#turntable)
-- [TRT](#trt)
-- [TRT Double](#trtdouble)
-- [Free Rollers](#freerollers)
-- [Spiral CW](#spiralcw)
-- [Spiral ACW](#spiralacw)
-- [Curved Conveyor](#curvedconveyor)
-- [Simple Conveyor](#simpleconveyor)
-- [Conveyor Drive](#conveyordrive)
-- [Noria](#noria)
 
 
 ## Cross Table :id=crosstable
@@ -1221,79 +1210,66 @@ No attributes for this object.
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/sensors/indicator/">Indicator</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0112.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=indicator">Indicator</a></td>
+        <td><img src="Images/0112.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/sensors/area-sensor/">Area Sensor</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0112.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=areasensor">Area Sensor</a></td>
+        <td><img src="Images/0112.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/sensors/contact/">Contact</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0112.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=contactsensor">Contact Sensor</a></td>
+        <td><img src="Images/0112.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/sensors/photocell/">Photocell</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0112.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=photocell">Photocell</a></td>
+        <td><img src="Images/0112.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/sensors/reader/">Reader</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0112.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=reader">Reader</a></td>
+        <td><img src="Images/0112.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/sensors/profilometer/">Profilometer</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0112.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=profilometer">Profilometer</a></td>
+        <td><img src="Images/0112.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/sensors/rfid/">RFID</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0112.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=rfid">RFID</a></td>
+        <td><img src="Images/0112.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/sensors/rotating-reader/">Rotating Reader</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0112.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=rotatingreader">Rotating Reader</a></td>
+        <td><img src="Images/0112.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/sensors/telemeter-2/">Telemeter</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0112.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=telemeter">Telemeter</a></td>
+        <td><img src="Images/0112.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/sensors/weighing-scale/">Weighing Scale</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0112.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=weighingscale">Weighing Scale</a></td>
+        <td><img src="Images/0112.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/sensors/primitive/">Primitive</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0112.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=primitive">Primitive</a></td>
+        <td><img src="Images/0112.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/sensors/gocator/">Gocator</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0112.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=gocator">Gocator</a></td>
+        <td><img src="Images/0112.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
 </tbody></table>
-
-- [Indicator](#indicator)
-- [Area Sensor](#areasensor)
-- [Contact Sensor](#contactsensor)
-- [Photocell](#photocell)
-- [Reader](#reader)
-- [Profilometer](#profilometer)
-- [RFID](#rfid)
-- [Rotating Reader](#rotatingreader)
-- [Telemeter](#telemeter)
-- [Weighing Scale](#weighingscale)
-- [Primitive](#primitive)
-- [Gocator](#gocator)
 
 
 ## Indicator :id=indicator
@@ -2217,67 +2193,58 @@ No attributes for this object.
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/actuators/centering-device/">Centering Device</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0133.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=centeringdevice">Centering Device</a></td>
+        <td><img src="Images/0133.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/actuators/gripper-1-axe/">Gripper 1 Axis</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0133.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=gripper1axe">Gripper 1 Axis</a></td>
+        <td><img src="Images/0133.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/actuators/gripper-2-axe/">Gripper 2 Axis</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0133.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=gripper2axe">Gripper 2 Axis</a></td>
+        <td><img src="Images/0133.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/actuators/horse-head/">Horse Head</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0133.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=horsehead">Horse Head</a></td>
+        <td><img src="Images/0133.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/actuators/hydraulic-pump/">Hydraulic Pump</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0133.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=hydraulicpump">Hydraulic Pump</a></td>
+        <td><img src="Images/0133.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/actuators/pusher-step-by-step/">Pusher Step by Step</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0133.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=pusherstepbystep">Pusher Step by Step</a></td>
+        <td><img src="Images/0133.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/actuators/singulator/">Singulator</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0133.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=singulator">Singulator</a></td>
+        <td><img src="Images/0133.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/actuators/tulip/">Tulip</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0133.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=tulip">Tulip</a></td>
+        <td><img src="Images/0133.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/actuators/saw/">Saw</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0133.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=saw">Saw</a></td>
+        <td><img src="Images/0133.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/actuators/jack-ik/">Jack IK</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0133.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=jackik">Jack IK</a></td>
+        <td><img src="Images/0133.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
 </tbody></table>
 
-- [Centering Device](#centeringdevice)
-- [Gripper 1 Axis](#gripper1axe)
-- [Gripper 2 Axis](#gripper2axe)
-- [Horse Head](#horsehead)
-- [Hydraulic Pump](#hydraulicpump)
-- [Pusher Step by Step](#pusherstepbystep)
-- [Singulator](#singulator)
-- [Tulip](#tulip)
-- [Saw](#saw)
-- [Jack IK](#jackik)
+
 
 
 ## Centering Device :id=centeringdevice
@@ -3036,85 +3003,73 @@ No attributes for this object.
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/decoration/gocator-box/">Gocator Box</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0131.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=gocatorbox">Gocator Box</a></td>
+        <td><img src="Images/0131.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/decoration/border/">Border</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0131.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=border">Border</a></td>
+        <td><img src="Images/0131.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/decoration/bundleobject/">BundleObject</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0131.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=bundleobject">BundleObject</a></td>
+        <td><img src="Images/0131.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/decoration/button-box/">Button Box</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0131.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=buttonbox">Button Box</a></td>
+        <td><img src="Images/0131.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/decoration/cabinet/">Cabinet</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0131.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=cabinet">Cabinet</a></td>
+        <td><img src="Images/0131.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/decoration/duckboard/">Duckboard</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0131.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=duckboard">Duckboard</a></td>
+        <td><img src="Images/0131.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/decoration/fence/">Fence</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0131.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=fence">Fence</a></td>
+        <td><img src="Images/0131.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/decoration/label/">Label</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0131.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=label">Label</a></td>
+        <td><img src="Images/0131.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/decoration/light/">Light</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0131.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=light">Light</a></td>
+        <td><img src="Images/0131.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/decoration/model/">Model</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0131.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=model">Model</a></td>
+        <td><img src="Images/0131.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/decoration/panel/">Panel</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0131.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=Panel">Panel</a></td>
+        <td><img src="Images/0131.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/decoration/primitive/">Primitive</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0131.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=primitives">Primitive</a></td>
+        <td><img src="Images/0131.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/decoration/shape/">Shape</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0131.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=shape">Shape</a></td>
+        <td><img src="Images/0131.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
 </tbody></table>
 
-- [Gocator Box](#gocatorbox)
-- [Border](#border)
-- [BundleObject](#bundleobject)
-- [Button Box](#buttonbox)
-- [Cabinet](#cabinet)
-- [Duckboard](#duckboard)
-- [Fence](#fence)
-- [Label](#label)
-- [Light](#light)
-- [Model](#model)
-- [Panel](#panel)
-- [Primitive](#primitive)
-- [Shape](#shape)
+
 
 
 ## Gocator Box :id=gocatorbox
@@ -3733,7 +3688,7 @@ No Specific attributes.
 
 >Example
 
-## Primitive :id=primitive
+## Primitive :id=primitives
 
 >What is it ?
 
@@ -3912,43 +3867,36 @@ No specific attributes.
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/mix/mix-sensor/">Mix Sensor</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0136.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=mixsensor">Mix Sensor</a></td>
+        <td><img src="Images/0136.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/mix/hopper/">Hopper</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0136.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=hopper">Hopper</a></td>
+        <td><img src="Images/0136.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/mix/pipe/">Pipe</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0136.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=pipe">Pipe</a></td>
+        <td><img src="Images/0136.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/mix/absorber/">Absorber</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0136.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=absorber">Absorber</a></td>
+        <td><img src="Images/0136.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/mix/emitter/">Emitter</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0136.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=emitter">Emitter</a></td>
+        <td><img src="Images/0136.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/mix/endless-screw/">Endless Screw</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0136.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=endlessscrew">Endless Screw</a></td>
+        <td><img src="Images/0136.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
 </tbody></table>
-
-- [Mix Sensor](#mixsensor)
-- [Hopper](#hopper)
-- [Pipe](#pipe)
-- [Absorber](#absorber)
-- [Emitter](#emitter)
-- [Endless Screw](#endlessscrew)
 
 
 
@@ -4407,49 +4355,42 @@ No specific attributes.
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/agv/">AGV</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=agv">AGV</a></td>
+        <td><img src="Images/0139.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/character/">Character</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=character">Character</a></td>
+        <td><img src="Images/0139.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/teleport/">Teleporter</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=teleport">Teleporter</a></td>
+        <td><img src="Images/0139.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/remover/">Remover</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=remover">Remover</a></td>
+        <td><img src="Images/0139.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/stock/">Stock</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=stock">Stock</a></td>
+        <td><img src="Images/0139.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/grabber-object/">Grabber Object</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=grabberobject">Grabber Object</a></td>
+        <td><img src="Images/0139.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/handling/grabber-product/">Grabber Product</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0139.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=grabberproduct">Grabber Product</a></td>
+        <td><img src="Images/0139.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
 </tbody></table>
 
-- [AVG](#avg)
-- [Character](#character)
-- [Teleporter](#teleporter)
-- [Remover](#remover)
-- [Stock](#stock)
-- [Grabber Object](#grabberobject)
-- [Grabber Product](#grabberproduct)
 
 ## AGV :id=agv
 
@@ -4988,23 +4929,6 @@ No specific attributes.
 
 >Example
 
-## Generator :id=generator
-
->What is it ?
-
-![Middle](Images/GeneratorS.png ':size=200')
-
->Inspector
-
-
-
->Data Monitor
-
-
-
->Specifies
-
->Example
 
 
 
@@ -5017,55 +4941,47 @@ No specific attributes.
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/rail-i-o/">Rails I/O</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=railsio">Rails I/O</a></td>
+        <td><img src="Images/0134.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/loader/">Loader</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=loader">Loader</a></td>
+        <td><img src="Images/0134.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/unloader/">Unloader</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=unloader">Unloader</a></td>
+        <td><img src="Images/0134.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/hookchain/">Hookchain</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=hookchain">Hookchain</a></td>
+        <td><img src="Images/0134.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/rail-conveyor/">Rail Conveyor</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=railconveyor">Rail Conveyor</a></td>
+        <td><img src="Images/0134.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/sensor-2/">Sensor</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=sensorh">Sensor</a></td>
+        <td><img src="Images/0134.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/rfid/">RFID</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=rfidh">RFID</a></td>
+        <td><img src="Images/0134.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/rail-stop/">Rail Stop</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0134.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=railstop">Rail Stop</a></td>
+        <td><img src="Images/0134.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
 </tbody></table>
 
-- [RailsI/O](#railsio)
-- [Loaders](#loaders)
-- [Unloaders](#unloader)
-- [Hookchain](#hookchain)
-- [Rail Conveyors](#railconveyor)
-- [Sensor](#sensor)
-- [RFID](#rfid)
-- [Rail Stop](#railstop)
 
 
 ## RailsIO :id=railsio
@@ -5513,7 +5429,7 @@ No specific attributes.
 
 >Example
 
-## Sensor :id=sensor
+## Sensor :id=sensorh
 
 >What is it ?
 
@@ -5580,7 +5496,7 @@ No specific attributes.
 
 >Example
 
-## RFID :id=rfid
+## RFID :id=rfidh
 
 >What is it ?
 
@@ -5734,37 +5650,31 @@ No specific attributes.
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/analogic-input/">Analogic Input</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=analogicinput">Analogic Input</a></td>
+        <td><img src="Images/0132.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/analogic-output/">Analogic Output</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=analogicoutput">Analogic Output</a></td>
+        <td><img src="Images/0132.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/exchange/">Exchange</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=exchange">Exchange</a></td>
+        <td><img src="Images/0132.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/input/">Input</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=input">Input</a></td>
+        <td><img src="Images/0132.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/connector/output/">Output</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0132.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=output">Output</a></td>
+        <td><img src="Images/0132.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
 </tbody></table>
-
-- [Analogic Input](#analogicinput)
-- [Analogic Output](#analogicoutput)
-- [Exchange](#exchange)
-- [Input](#input)
-- [Output](#output)
 
 ## Analogic Input :id=analogicinput
 
@@ -6050,37 +5960,31 @@ No specific attributes.
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/vr-2/panel-actions/">panel Actions</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0137.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=panelactions">panel Actions</a></td>
+        <td><img src="Images/0137.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/vr-2/vrinput/">VRInput</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0137.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=vrinput">VRInput</a></td>
+        <td><img src="Images/0137.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/vr-2/vrposition/">VRPosition</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0137.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=vrposition">VRPosition</a></td>
+        <td><img src="Images/0137.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/vr-2/vrtools/">VRTools</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0137.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=vrtools">VRTools</a></td>
+        <td><img src="Images/0137.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/manual/objects/hookchains/rail-conveyor/">VRTrackers</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0137.png" alt="Image"></td>
+        <td><a href="/#/objects.md?id=vrtrackers">VRTrackers</a></td>
+        <td><img src="Images/0137.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
 </tbody></table>
-
-- [Panel Actions](#panelactions)
-- [VRInput](#vrinput)
-- [VRPosition](#vrposition)
-- [VRTools](#vrtools)
-- [VRTrackers](#vrtrackers)
 
 ## Panel Actions :id=panelactions
 

@@ -14,50 +14,42 @@ It exists two types of groups : standard and mechanical. Even if they are differ
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="## Section :id=section">Section</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0121.png" alt="Image"></td>
+        <td><a href="/#/groups.md?id=section">Section</a></td>
+        <td><img src="Images/0121.png"></td>
         <td>Group in charge of all simulation groups</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/groups/standard-groups/">Standard</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0141.png" alt="Image"></td>
+        <td><a href="/#/groups.md?id=standard">Standard</a></td>
+        <td><img src="Images/0141.png"></td>
         <td>Classic groups with no exclusive features.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/groups/mechanical-simple/">Simple</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0142.png" alt="Image"></td>
+        <td><a href="/#/groups.md?id=simple">Simple</a></td>
+        <td><img src="Images/0142.png"></td>
         <td>Mechanical groups that can rotate and translate with a given speed.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/groups/mechanical-drive/">Drive</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0142.png" alt="Image"></td>
+        <td><a href="/#/groups.md?id=drive">Drive</a></td>
+        <td><img src="Images/0142.png"></td>
         <td>Mechanical groups that can translate with a given acceleration.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/groups/mechanical-hydraulic/">Hydraulic</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0142.png" alt="Image"></td>
+        <td><a href="/#/groups.md?id=hydraulic">Hydraulic</a></td>
+        <td><img src="Images/0142.png"></td>
         <td>Mechanical groups that can translate with a given pressure by a hydraulic pump.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/groups/mechanical-trajectory/">Trajectory</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0142.png" alt="Image"></td>
+        <td><a href="/#/groups.md?id=trajectory">Trajectory</a></td>
+        <td><img src="Images/0142.png"></td>
         <td>Mechanical groups that can translate by following a point path.</td>
     </tr>
     <tr>
-        <td><a href="http://10.0.1.47/index.php/objects/groups/mechanical-scaler/">Scaler</a></td>
-        <td><img src="http://10.0.1.47/wp-content/uploads/2023/08/0142.png" alt="Image"></td>
+        <td><a href="/#/groups.md?id=scaler">Scaler</a></td>
+        <td><img src="Images/0142.png"></td>
         <td>Mechanical groups that can scale up or down.</td>
     </tr>
     
 </tbody></table>
-
-- [Section](#section)
-- [Standard](#standard)
-- [Mechanical Simple](#simple)
-- [Mechanical Drive](#drive)
-- [Mechanical Hydraulic](#hydraulic)
-- [Mechanical Trajectory](#trajectory)
-- [Mechanical Scaler](#scaler)
 
 >Mechanical groups
 
