@@ -1,7 +1,6 @@
 # Groups :id=groups
 
 
-![Middle](Images/mechanical.png ':size=80')
 
 Such as a section, you can drag other object and groups, in a group. You can create a group from the 3D viewer, or by the Hierarchy, with a right click.
 

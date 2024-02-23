@@ -19,12 +19,12 @@ On this section, will be present every groups and object, with description for a
         <td><img src="Images/0141.png"></td>
     </tr>
     <tr>
-        <td><a href="/#/objects.md?id=conveyor">Conveyor</a></td>
+        <td><a href="/#/objects.md?id=conveyors">Conveyor</a></td>
         <td>Moving belt.</td>
         <td><img src="Images/0113.png"></td>
     </tr>
     <tr>
-        <td><a href="/#/objects.md?id=sensor">Sensors</a></td>
+        <td><a href="/#/objects.md?id=sensors">Sensors</a></td>
         <td>Cell and scanners.</td>
         <td><img src="Images/0112.png"></td>
     </tr>
@@ -1271,21 +1271,6 @@ No attributes for this object.
     </tr>
 </tbody></table>
 
-
-## Indicator :id=indicator
-
->What is it ?
-
-![Middle](Images/Indicator.png ':size=200')
-
->Inspector
-
->Data Monitor
-
->Specifies
-
->Example
-
 ## Indicator :id=indicator
 
 >What is it ?
@@ -1386,7 +1371,7 @@ No attributes for this object.
         </tr>
         <tr>
             <td>NO_NC</td>
-            <td></td>
+            <td>Normally Closed or Open</td>
         </tr>
         <tr>
             <td>Description</td>

@@ -63,19 +63,19 @@ In the 3D viewer, you have access to four tools located above the 3D view window
         </tr>
         <tr>
             <td><img src="Images/translation.png"></td>
-            <td>The translation tool permit you to move along X,Y or Z axis your object. You can have more information <a href="https://www.link1.com">Here</a></td>
+            <td>The translation tool permit you to move along X,Y or Z axis your object.</td>
         </tr>
         <tr>
             <td><img src="Images/Rotation.png"></td>
-            <td>The rotation tool permit you to rotate along X,Y or Z axis your object. You can have more information <a href="https://www.link1.com">Here</a></td>
+            <td>The rotation tool permit you to rotate along X,Y or Z axis your object.</td>
         </tr>
         <tr>
             <td><img src="Images/Resized.png"></td>
-            <td>The resize tool permit you to up scale, or down scale your object. You can have more information <a href="https://www.link1.com">Here</a></td>
+            <td>The resize tool permit you to up scale, or down scale your object.</td>
         </tr>
         <tr>
             <td><img src="Images/Universal.png"></td>
-            <td>The universal tool permit you to move, rotate and resize in one tool an object. You can have more information <a href="https://www.link1.com">Here</a></td>
+            <td>The universal tool permit you to move, rotate and resize in one tool an object.</td>
         </tr>
     </tbody></table>
 	

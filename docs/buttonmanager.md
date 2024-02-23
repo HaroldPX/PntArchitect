@@ -1,4 +1,4 @@
-# Button Manager id=buttonmanager
+# Button Manager :id=buttonmanager
 
 Buttons are really useful. it enable to monitor manually some data, without an automate or to forced a data. They are most of the time use, as emergency buttons, or direction levers. Every object can have button.
 
