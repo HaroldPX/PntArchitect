@@ -96,7 +96,7 @@ Additionally, you have the flexibility to change the initial position and scale 
 In the data monitor window, you can observe and analyze I/O about the mechanical groups, including their position encoder, speed, and more. Each mechanical groups have specific I/O. Even They all have a common DI : "DI_Encoder", it is an encoder, in millimeter for a translation, in radians for a rotation. It can be incremented or decremented, in function of the way.
 
 
-## Section :id=section
+# Section :id=section
 
 >What is it ?
 
@@ -127,7 +127,7 @@ When you are loading your project, you can decide, which section will be loaded.
 
 
 
-## Standard :id=standard
+# Standard :id=standard
 
 >What is it ?
 
@@ -162,7 +162,7 @@ When you are loading your project, you can decide, which section will be loaded.
 
 
 
-## Mechanical Simple :id=simple
+# Mechanical Simple :id=simple
 
 The bascule mechanical group is used to rotate every object linked to it in a specific direction. All the parameters, such as speed, direction, and maximum rotation value, can be configured using the inspector window.
 
@@ -299,7 +299,7 @@ The Mechanical Simple groups is used to rotate and translate every object linked
 >Example
 
 
-## Mechanical Drive :id=drive
+# Mechanical Drive :id=drive
 
 >What is it ?
 
@@ -452,7 +452,7 @@ The drive mechanical group is used to move or rotate objects in a specific direc
 
 
 
-## Mechanical Hydraulic :id=hydraulic
+# Mechanical Hydraulic :id=hydraulic
 
 >What is it ?
 
@@ -603,7 +603,7 @@ The hydraulic mechanical group is used to rotate and translate every object link
 
 
 
-## Mechanical Trajectory :id=trajectory
+# Mechanical Trajectory :id=trajectory
 
 >What is it ?
 
@@ -731,7 +731,7 @@ The trajectory mechanical group is used to move objects linked to it by followin
 >Example
 
 
-## Mechanical Scaler :id=scaler
+# Mechanical Scaler :id=scaler
 
 >What is it ?
 

@@ -4,6 +4,8 @@
 * [Getting Started](getting-started.md?id=gettingstarted)
   - [Open an Existing Project](getting-started.md?id=openproject)
   - [3D Navigation](getting-started.md?id=nav)
+  - [Creating your first simulation](getting-started.md?id=firstsim)
+  - [Running your first simulation](getting-started.md?id=runfirstsim)
 * [Interface](interface.md?id=interface)
 * [3D Viewer](3dviewer.md?id=3dviewer)
 * [Hierarchy](hierarchy.md?id=Hierarchy)

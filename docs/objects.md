@@ -9,16 +9,6 @@ On this section, will be present every groups and object, with description for a
         <th>Link</th>
     </tr>
     <tr>
-        <td><a href="/#/groups.md?id=section">Section</a></td>
-        <td>Main section, to organize project.</td>
-        <td><img src="Images/0121.png"></td>
-    </tr>
-    <tr>
-        <td><a href="/#/groups.md?id=groups">groups</a></td>
-        <td>Groups that contains object, that will interact with each other.</td>
-        <td><img src="Images/0141.png"></td>
-    </tr>
-    <tr>
         <td><a href="/#/objects.md?id=conveyors">Conveyor</a></td>
         <td>Moving belt.</td>
         <td><img src="Images/0113.png"></td>
@@ -73,22 +63,12 @@ On this section, will be present every groups and object, with description for a
         <td>Object that control the simulation with an IA.</td>
         <td><img src="Images/0115.png"></td>
     </tr>
-    <tr>
-        <td><a href="/#/objects.md?id=generators">Generators</a></td>
-        <td>Product generators.</td>
-        <td><img src="Images/0139.png"></td>
-    </tr>
-    <tr>
-        <td><a href="/#/objects.md?id=spies">Spies</a></td>
-        <td>Product monitor in an area.</td>
-        <td><img src="Images/0122.png"></td>
-    </tr>
 </tbody></table>
 
 
 
 
-## Conveyors :id=conveyors
+# Conveyors :id=conveyors
 
 A conveyor is a mechanical belt, uses to move product to one point to an other. They can move several object at the same time. It exists many differents types of conveyor.
 
@@ -1201,7 +1181,7 @@ No attributes for this object.
 >Example
 
 
-## Sensors :id=sensors
+# Sensors :id=sensors
 
 <table>
     <tbody><tr>
@@ -2169,7 +2149,7 @@ No attributes for this object.
 
 >Example
 
-## Actuators :id=actuators
+# Actuators :id=actuators
 
 <table>
     <tbody><tr>
@@ -2979,7 +2959,7 @@ No attributes for this object.
 >Example
 
 
-## Decoration :id=decoration
+# Decoration :id=decoration
 
 <table>
     <tbody><tr>
@@ -3843,7 +3823,7 @@ No specific attributes.
 
 >Example
 
-## Mix :id=mix
+# Mix :id=mix
 
 <table>
     <tbody><tr>
@@ -4331,7 +4311,7 @@ No specific attributes.
 
 >Example
 
-## Handling :id=handling
+# Handling :id=handling
 
 <table>
     <tbody><tr>
@@ -4917,7 +4897,7 @@ No specific attributes.
 
 
 
-## Hookchains :id=hookchains
+# Hookchains :id=hookchains
 
 <table>
     <tbody><tr>
@@ -5626,7 +5606,7 @@ No specific attributes.
 
 >Example
 
-## Connectors :id=connectors
+# Connectors :id=connectors
 
 <table>
     <tbody><tr>
@@ -5936,7 +5916,7 @@ No specific attributes.
 
 >Example
 
-## VR :id=vr
+# VR :id=vr
 
 <table>
     <tbody><tr>
