@@ -26,7 +26,7 @@
 - [Material Editor](materialeditor.md?id=materialeditor)
 - [Configuration files](configurationfiles.md?id=configurationfiles)
 - [Edit & Run](edit&run.md?id=edit&run)
-- [VR](#vr)
+- [VR](vr.md?id=vr)
 
 ## Top bar :id=topbar
 

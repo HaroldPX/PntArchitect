@@ -164,6 +164,9 @@ To attach together two conveyors, it exist on the 3D Tools, a visual helper, to 
   <source src="Medias/Link.mp4" type="video/mp4">
 </video>
 
+[Resources](https://github.com/HaroldPX/PntArchitect/blob/main/docs/xmc3%20Exemple/)
+
+
 # Running your first simulation :id=runfirstsim
 
 >Switching Edit & Run

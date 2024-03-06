@@ -63,6 +63,16 @@ On this section, will be present every groups and object, with description for a
         <td>Object that control the simulation with an IA.</td>
         <td><img src="Images/0115.png"></td>
     </tr>
+    <tr>
+        <td><a href="/#/objects.md?id=generator">Generator</a></td>
+        <td>Objcet that can generate Product</td>
+        <td><img src="Images/0139.png"></td>
+    </tr>
+    <tr>
+        <td><a href="/#/objects.md?id=spies">Spies</a></td>
+        <td>Object that control all watch evry product in specific area</td>
+        <td><img src="Images/0122.png"></td>
+    </tr>
 </tbody></table>
 
 
@@ -4897,6 +4907,8 @@ No specific attributes.
 
 
 
+
+
 # Hookchains :id=hookchains
 
 <table>
@@ -5951,6 +5963,8 @@ No specific attributes.
     </tr>
 </tbody></table>
 
+If you want to setup your headset clic [here](VR.md?id=VR).
+
 ## Panel Actions :id=panelactions
 
 >What is it ?
@@ -6258,3 +6272,107 @@ No specific attributes.
 >Specifies
 
 >Example
+
+## Generator :id=generator
+
+A Generator will generate product at a desired rate. It is really useful to see if your simulation can handle a constant flow of product. It exist two different types of generators, [Static](#static) one and [Dynamic](#dynamic) one.
+
+- [Static](#static)
+- [Dynamic](#dynamic)
+
+## Static :id=static
+
+A static object is an object, only usable and addable in Edit Mode. You can't save it in a configuration file, but directly in the project file. 
+
+>What is it ?
+
+You can have access to the static generator by the object family "handling". It will create an object that will generate at a desired rate, product.
+
+>Inspector
+
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>ProductSheet_Size</td>
+            <td>Choose your product.</td>
+        </tr>
+        <tr>
+            <td>IsKinematic</td>
+            <td>Enable the kinematic.</td>
+        </tr>
+    </tbody></table>
+
+>Data Monitor
+
+<table>
+        <tbody><tr>
+            <th>I/O</th>
+            <th>Description</th>
+        </tr>
+            <tr><td>DO_ProductSheet</td>
+            <td>.</td>
+        </tr>
+            <tr><td>DO_Start</td>
+            <td>Start the generator.</td>
+		</tr>
+            <tr><td>DO_Command</td>
+            <td>Command to generate a certain number of product.</td>
+		</tr>
+    </tbody></table>
+
+>Specifies
+
+>Example
+
+## Dynamic :id=dynamic
+
+A dynamic object is an object, only usable and addable in Run & Edit Mode. You can save it in a configuration file, but you can't in the project file.
+
+>How to access
+
+To create a dynamic generator, you just add to click on the "Add generator" button in the Vertical Bar.
+
+Then by left clicking on where you want to add your generator, a parameter window will be open.
+
+![Middle](Images/Parameter_generator.png ':size=500')
+
+>Parameters
+
+## Spies :id=spies
+
+A dynamic object is an object, only usable and addable in Run & Edit Mode. You can save it in a configuration file, but you can't in the project file.
+
+A spy will monitor in a specific area, all product that will enter and exit this specific area. He will write every thing in a log file.
+
+I) How to access
+
+To create a spy, you just add to click on the "Add spies" button in the Vertical Bar.
+
+Then by left clicking on where you want to add your spy, a parameter window will be open.
+
+![Middle](Images/Spies_para.png ':size=500')
+
+>Parameters
