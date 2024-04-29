@@ -361,6 +361,8 @@ The Turn table is a conveyor that will turn the product to move it into  another
 
 ![Middle](Images/TRT.png ':size=500')
 
+TRT is a conveyor that a conveyor that centers the product with arms
+
 >Inspector
 
 <table>
@@ -460,6 +462,8 @@ The Turn table is a conveyor that will turn the product to move it into  another
 >What is it ?
 
 ![Middle](Images/TRTdouble.png ':size=500')
+
+TRT is a conveyor that a conveyor that centers the product with armsn both directions 
 
 >Inspector
 
@@ -641,9 +645,64 @@ No attributes for this object.
 
 ![Middle](Images/SpiralCW.png ':size=500')
 
+Spiral CW is a conveyor that allows the product to flow downwards like the Free Rollers, it goes clockwise.
+
 >Inspector
 
-
+<table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Name of the current section.</td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td>Position in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>Orientation in the 3D environment.</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>Description given to the group.</td>
+        </tr>
+        <tr>
+            <td>UseEulerOriental</td>
+            <td>Use the euleur Orientation to measure in radians.</td>
+        </tr>
+        <tr>
+            <td>Speed</td>
+            <td>Speed of the first path.</td>
+        </tr>
+        <tr>
+            <td>Element Height</td>
+            <td>Height of the conveyor.</td>
+        </tr>
+        <tr>
+            <td>Width</td>
+            <td>Width of the conveyor</td>
+        </tr>
+        <tr>
+            <td>Radius</td>
+            <td>Radius of the conveyor's curve.</td>
+        </tr>
+       <tr>
+            <td>Angle</td>
+            <td>Angle of the conveyor's curve.</td>
+        </tr>
+        <tr>
+            <td>Auto Alignment</td>
+            <td>Auto alignment of the product.</td>
+        </tr>
+        <tr>
+            <td>Auto Center</td>
+            <td>Auto center of the product.</td>
+        </tr>
+</tbody></table>
 
 >Data Monitor
 
@@ -656,7 +715,9 @@ No attributes for this object.
 
 >What is it ?
 
-![Middle](Images/TRT.png ':size=500')
+![Middle](Images/SpiralCW.png ':size=500')
+
+Spiral CW is a conveyor that allows the product to flow downwards like the Free Rollers, it goes anti clockwise.
 
 >Inspector
 
@@ -723,11 +784,13 @@ No attributes for this object.
 
 >Example
 
-## Cross Table :id=curvedconveyor
+## Curved Conveyor :id=curvedconveyor
 
 >What is it ?
 
 ![Middle](Images/CurvedConveyor.png ':size=500')
+
+Curved Conveyor is conveyor to make curve.
 
 >Inspector
 
@@ -834,6 +897,8 @@ No attributes for this object.
 >What is it ?
 
 ![Middle](Images/Conveyorpng.png ':size=500')
+
+Simple Conveyor is a conveyor 
 
 >Inspector
 
@@ -950,6 +1015,8 @@ No attributes for this object.
 >What is it ?
 
 ![Middle](Images/Conveyordrive.png ':size=500')
+
+Conveyor drive is a conveyor which operates with a variable speed drive . 
 
 >Inspector
 
