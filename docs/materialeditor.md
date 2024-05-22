@@ -46,3 +46,6 @@ This window is use to edit the texture from the "BundleObject", "Model", "Primit
     </tbody>
 </table>
 
+<video width="800" controls>
+  <source src="Medias/Material_editor.mp4" type="video/mp4">
+</video>
