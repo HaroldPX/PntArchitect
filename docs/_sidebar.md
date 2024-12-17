@@ -43,4 +43,4 @@
 * [Configuration Files](configurationfiles.md?id=configurationfiles)
 * [Edit & Run](edit&run.md?id=edit&run)
 * [VR](VR.md?id=VR)
-* [Licensing](Licensing.md?id=Licensing)
+* [Licensing](licensing.md?id=licensing)
