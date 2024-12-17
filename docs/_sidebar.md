@@ -2,7 +2,7 @@
 
 * [Home](/)
 * [Getting Started](getting-started.md?id=gettingstarted)
-  - [Flies Description](getting-started.md?id=fliesdescription)
+  - [Files Description](getting-started.md?id=fliesdescription)
   - [Open an Existing Project](getting-started.md?id=openproject)
   - [3D Navigation](getting-started.md?id=nav)
   - [Creating your first simulation](getting-started.md?id=firstsim)
@@ -43,3 +43,4 @@
 * [Configuration Files](configurationfiles.md?id=configurationfiles)
 * [Edit & Run](edit&run.md?id=edit&run)
 * [VR](VR.md?id=VR)
+* [Licensing](Licensing.md?id=Licensing)
