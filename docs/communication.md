@@ -1,4 +1,4 @@
-# Communication :id=communication
+# Communication  :id=communication
 
 The communication window is use to make the link between the Architect's I/O, and the PLC. 
 

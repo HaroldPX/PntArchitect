@@ -1,4 +1,4 @@
-# Getting Started :id=gettingstarted
+# Gettings Started :id=gettingstarted
 
 # Files Description :id=fliesdescription
 

@@ -1,4 +1,4 @@
-# Hierarchy :id=hierarchy
+# Hierarchy  :id=hierarchy
 
 The hierarchy window provides an overview of all the objects utilized in your project. These objects are typically organized into different groups, with each group representing an element within your simulation. For instance, a conveyor system may consist of components such as the belt, cells, and controller, all of which are categorized within the hierarchy.
 

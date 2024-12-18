@@ -1,4 +1,4 @@
-# 3D Viewer :id=3dviewer
+# 3D Viewer  :id=3dviewer
 
 The 3D viewer is the primary window where you observe your simulation. It is crucial to familiarize yourself with its features and functionality in order to fully comprehend and leverage the software's capabilities.
 

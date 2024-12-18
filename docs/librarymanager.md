@@ -1,4 +1,4 @@
-# Library Manager :id=librarymanager
+# Library  Manager :id=librarymanager
 
 The library window is very useful to be efficient to create a new simulation. it enables you to add any groups or object from 3D object library, so you do not have to do again an entire groups. You can have access to default library and external ones.
 

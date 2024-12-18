@@ -1,4 +1,4 @@
-## Controller Manager :id=controllermanager
+## Controller  Manager :id=controllermanager
 
 - [Controller Manager](#controllermanager)
 	- [Coding](#coding)
